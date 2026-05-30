@@ -107,7 +107,7 @@ Busco uma oportunidade como Desenvolvedor Full Stack Júnior, Back-End Júnior o
 ## 📚 Atualmente estudando
 
 📌 Desenvolvimento Full Stack  
-📌 PHP e MySQL  
+📌 Java, PHP e MySQL  
 📌 Estruturas de Dados e Algoritmos  
 📌 JavaScript moderno  
 📌 Arquitetura de Software  
